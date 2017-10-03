@@ -1,5 +1,5 @@
 {
-  "name": "object-paths",
+  "name": "@aercolino/object-paths",
   "version": "0.1.0",
   "description": "Find all nodes of a tree object whose values match a regular expression and get their paths from the root as a list of keys separated by dots.",
   "main": "index.js",
