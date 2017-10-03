@@ -1,0 +1,23 @@
+{
+  "name": "object-paths",
+  "version": "0.1.0",
+  "description": "Find all nodes of a tree object whose values match a regular expression and get their paths from the root as a list of keys separated by dots.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc mocha tests/**/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aercolino/object-paths.git"
+  },
+  "keywords": [
+    "object",
+    "paths"
+  ],
+  "author": "Andrea Ercolino <andowebsit.es@gmail.com> (http://andowebsit.es)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aercolino/object-paths/issues"
+  },
+  "homepage": "https://github.com/aercolino/object-paths#readme"
+}
